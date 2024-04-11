@@ -1,6 +1,6 @@
 # Colorization App
 
-This Python application provides a graphical user interface (GUI) for colorizing black-and-white images and videos. It features multiple colorization methods including automatic colorization, dot-based colorization, and dynamic palette-based colorization using an external API to generate color palettes. The app utilizes OpenCV for image processing and Tkinter for the GUI.
+This Python application provides a graphical user interface (GUI) for colorizing black-and-white images and videos. The app utilizes OpenCV for image processing and Tkinter for the GUI.
 
 ## Features
 
