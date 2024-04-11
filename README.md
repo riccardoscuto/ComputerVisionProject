@@ -5,7 +5,7 @@ This Python application provides a graphical user interface (GUI) for colorizing
 ## Features
 
 - **Automatic Colorization**: Automatically colorizes black-and-white images and videos using a pre-trained deep learning model.
-- **Dot-Based Colorization**: Allows users to manually place colored dots on the image, which influence the colorization of nearby areas.
+- **Dot-Based Colorization**: Allows users to manually place colored dot on the image, which influence the colorization of nearby areas.
 - **Dynamic Palette-Based Colorization**: Users can generate color palettes dynamically via an API and apply these colors based on the grayscale intensity of the image.
 - **Image and Video Support**: Supports both images and videos for colorization. Videos can be colorized only with automatic colorization.
 
