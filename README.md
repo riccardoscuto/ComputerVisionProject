@@ -25,4 +25,7 @@ Before running this application, you will need the following:
 
 Download the model from: https://drive.google.com/drive/folders/1Qh9GuAE7k1jxrQcofhuW3o8y8Gan35BP?usp=sharing
 
+# Demo
 
+- **Initialization**: Run `Main.py` to initiate the application.
+-  Upload a file, choose a colorization mode and wait for the result.
